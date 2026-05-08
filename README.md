@@ -334,4 +334,5 @@ If the specification is wrong, even perfectly optimized behaviour can lead to th
 - Add human feedback or corrective penalties
 - Store experiment artifacts in Amazon S3
 - Run experiments as scheduled AWS Batch jobs
-- Add confidence intervals across multiple random seeds# incentive-misalignment
+- Add confidence intervals across multiple random seeds
+- Incentive-misalignment
